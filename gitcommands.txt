@@ -1,0 +1,1 @@
+git add [file] # to stage a file for commit
